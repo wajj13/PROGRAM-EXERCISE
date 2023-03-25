@@ -1,0 +1,5 @@
+The threat landscape is evolving at breakneck speed and corporate cyberattack surfaces expand, with many trends and developments kicked into overdrive as a result of the surge in digital transformation investments during and after the COVID-19 pandemic.
+
+But the growth of the attack surface often results in a gap between attackers and defenders – across skills, capabilities and resources. Fortunately, there are things that corporate security teams can do to (re)gain some of the initiative, for example ensuring that their approach is proactive and considers prevention, detection and response, including possibly by outsourcing capabilities to expert industry partners.
+
+Managed detection and response (MDR) combines all this. But not all solutions are created equal, so let’s take a look at why your organization may need MDR, and five key things to look for in a service offering.
